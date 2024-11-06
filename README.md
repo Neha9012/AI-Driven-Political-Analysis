@@ -1,4 +1,4 @@
-Political Data Analysis and Governance Optimization Tools
+#Political Data Analysis and Governance Optimization Tools
 Overview
 This repository provides a suite of Python-based tools aimed at analyzing and optimizing political data for applications such as voter behavior prediction, policy outcome simulation, sentiment analysis, fake news detection, and public service resource allocation. It leverages machine learning, natural language processing, and statistical models to support data-driven insights for policy-makers, political analysts, and researchers.
 
